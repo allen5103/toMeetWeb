@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/toMeetWeb/static/css/main.de305d18.css",
-    "main.js": "/toMeetWeb/static/js/main.6fceb15a.js",
+    "main.js": "/toMeetWeb/static/js/main.e9e60c36.js",
     "index.html": "/toMeetWeb/index.html",
     "main.de305d18.css.map": "/toMeetWeb/static/css/main.de305d18.css.map",
-    "main.6fceb15a.js.map": "/toMeetWeb/static/js/main.6fceb15a.js.map"
+    "main.e9e60c36.js.map": "/toMeetWeb/static/js/main.e9e60c36.js.map"
   },
   "entrypoints": [
     "static/css/main.de305d18.css",
-    "static/js/main.6fceb15a.js"
+    "static/js/main.e9e60c36.js"
   ]
 }
